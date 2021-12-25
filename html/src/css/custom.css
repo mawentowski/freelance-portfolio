@@ -1,0 +1,16 @@
+.resumo_fn_boxed_list .item div.indent {
+    margin-top: 1em;
+    padding-left: 2em;
+}
+
+.resumo_fn_boxed_list .item ul.bullet-list {
+    list-style-type: initial;
+}
+
+.resumo_fn_boxed_list .item ul li {
+    margin-bottom: 0.5em;
+}
+
+.resumo_fn_service_list .item .item_left p {
+    max-width: initial;
+}
